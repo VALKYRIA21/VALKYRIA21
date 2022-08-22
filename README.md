@@ -6,7 +6,6 @@ aplicaciones en el área de la tecnología.
 
 * ✉️  Contacto [fernandoberrio21@gmail.com](mailto:fernandoberrio21@gmail.com)
 * 🤝  Disponible para ayudar ❤
-* 
 =======================
 
 Developer 💻☕
