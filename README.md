@@ -1,4 +1,4 @@
-<!-- # VALKYRIA21 -->
+### VALKYRIA21 
 Q'Hubo, 👋 Fernando AKA "VALKYRIA" 
 Programador semi senior, con más de años de
 experiencia logrando desarrollar sistemas y
@@ -30,7 +30,7 @@ Developer 💻☕
 
 -------------
 
-### Socials
+### Social
 
 <a href="https://twitter.com/FhernandoDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
