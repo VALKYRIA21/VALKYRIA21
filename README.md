@@ -1,12 +1,12 @@
 ### VALKYRIA21 
 Q'Hubo, 👋 Fernando AKA "VALKYRIA" 
-Programador semi senior, con más de años de
+Programador semi senior, con 3 años de
 experiencia logrando desarrollar sistemas y
 aplicaciones en el área de la tecnología.
 
 * ✉️  Contacto [fernandoberrio21@gmail.com](mailto:fernandoberrio21@gmail.com)
 * 🤝  Disponible para ayudar ❤
-=======================
+==============
 
 Developer 💻☕
 -------------
