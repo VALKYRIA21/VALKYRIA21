@@ -24,7 +24,8 @@ Developer 💻☕
 - [x] JavaScript
         - JQuery
         - VueJs (En proceso de aprendisaje #100DaysOfCode)
-        - ReactJs (Por aprender) 
+        - ReactJs (1 Año de experiencia)
+        - Nextjs (1 Año de experiencia)
 
 
 -------------
