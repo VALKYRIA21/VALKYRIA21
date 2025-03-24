@@ -1,14 +1,19 @@
 ### VALKYRIA21 
+
 Q'Hubo, 👋 Fernando AKA "VALKYRIA" 
-Programador semi senior, con 4 años de
-experiencia logrando desarrollar sistemas y
-aplicaciones en el área de la tecnología.
+Semi senior programmer, with 5 years of
+experience developing systems and applications in the
+applications in the technology area.
 
 * ✉️  Contacto [fernandoberrio21@gmail.com](mailto:fernandoberrio21@gmail.com)
 * 🤝  Disponible para ayudar ❤
+
 ==============
 
+
 Developer 💻☕
+
+
 -------------
 
 ### Skills
@@ -16,17 +21,15 @@ Developer 💻☕
 - [x] HTML5
 - [x] CSS3
         -Bootstrap
-        -Bulma
         -Tailwind
 - [x] PHP/Laravel
 - [x] C/C++
 - [x] DART/Flutter
 - [x] JavaScript
         - JQuery
-        - VueJs (En proceso de aprendisaje #100DaysOfCode)
-        - ReactJs (1 Año de experiencia)
-        - Nextjs (1 Año de experiencia)
-        - React Native (En proceso de aprendisaje)
+        - ReactJs
+        - Nextjs
+        - React Native
 
 
 -------------
