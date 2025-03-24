@@ -5,31 +5,14 @@ Semi senior programmer, with 5 years of
 experience developing systems and applications in the
 applications in the technology area.
 
-* ✉️  Contacto [fernandoberrio21@gmail.com](mailto:fernandoberrio21@gmail.com)
-* 🤝  Disponible para ayudar ❤
+
+* ✉️  Contact [fernandoberrio21@gmail.com](mailto:fernandoberrio21@gmail.com)
+* 🤝  Available to help ❤
 
 ==============
 
 
 Developer 💻☕
-
-
--------------
-
-### Skills
-
-- [x] HTML5
-- [x] CSS3
-        -Bootstrap
-        -Tailwind
-- [x] PHP/Laravel
-- [x] C/C++
-- [x] DART/Flutter
-- [x] JavaScript
-        - JQuery
-        - ReactJs
-        - Nextjs
-        - React Native
 
 
 -------------
